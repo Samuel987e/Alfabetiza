@@ -1,5 +1,5 @@
 # Alfabetiza
-AlfabetizaJá — PWA de Alfabetização Gamificada (ODS 4)
+Alfabetiza — PWA de Alfabetização Gamificada (ODS 4)
 
 "Assegurar a educação inclusiva, equitativa e de qualidade e promover oportunidades de aprendizagem ao longo da vida para todos." — foco em alfabetização básica e leitura precoce.
 
